@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Registro de generación de código/transformación de texto">
+  <MessageClass Name="Message" Label="Mensaje" Option="Mostrar mensajes informativos" />
+  <MessageClass Name="Warning" Label="Advertencia" Option="Mostrar advertencias" />
+  <MessageClass Name="Error" Label="Error" Option="Mostrar errores" />
+  <MessageClass Name="Property" Label="Propiedad" Option="Mostrar metadatos" />
+  <MessageClass Name="Diagnostic" Label="Mensaje" Option="Mostrar mensajes de diagnóstico" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="High" Text="Se inició la generación de código o la transformación de texto." />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="Nombre = ClassTemplate" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="ProjectPath = ..\Proxy\Proxy.csproj" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="TargetDirectory = Proxy\{PackageStructure}" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:22" Importance="Medium" Text="Enlace de plantilla de texto de ProxyLib: 'ClassTemplate' aplicará ClassTemplate.t4 a: 'ProxyLib::Documento' -  (Class), 'ProxyLib::RealPicture' -  (Class), 'ProxyLib::ProxyPicture' -  (Class) " />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Medium" Text="'ProxyLib::Documento' -  (Class): correcto (archivo reemplazado) - C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\Proxy\Documento.cs" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Medium" Text="'ProxyLib::RealPicture' -  (Class): correcto (archivo reemplazado) - C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\Proxy\RealPicture.cs" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Medium" Text="'ProxyLib::ProxyPicture' -  (Class): correcto (archivo reemplazado) - C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\Proxy\ProxyPicture.cs" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="Nombre = InterfaceTemplate" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="ProjectPath = ..\Proxy\Proxy.csproj" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="TargetDirectory = Proxy\{PackageStructure}" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:23" Importance="Medium" Text="Enlace de plantilla de texto de ProxyLib: 'InterfaceTemplate' aplicará InterfaceTemplate.t4 a: 'ProxyLib::IPicturAble' -  (Interface) " />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Medium" Text="'ProxyLib::IPicturAble' -  (Interface): correcto (archivo creado) - C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\Proxy\IPicturAble.cs" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="Nombre = StructTemplate" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="Sobrescribir = True" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProxyLib\ModelingProxyLib.csproj" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Medium" Text="Enlace de plantilla de texto de ProxyLib: 'StructTemplate' aplicará StructTemplate.t4 a: 'ProxyLib::Documento' -  (Class), 'ProxyLib::RealPicture' -  (Class), 'ProxyLib::ProxyPicture' -  (Class) " />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::Documento' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::RealPicture' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::ProxyPicture' -  (Class): no se generó ningún archivo porque el método 'AppliesToElement' de la plantilla 'StructTemplate.t4' se evaluó como false." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="La selección incluía 5 elementos que no estaban enlazados a una plantilla." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib' -  (ModelStoreModel): sin plantilla enlazada." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::' -  (Association): sin plantilla enlazada." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::' -  (InterfaceRealization): sin plantilla enlazada." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="Diagnostic" Text="'ProxyLib::' -  (Association): sin plantilla enlazada." />
+  <Message Timestamp="2016-04-11T13:40:24" Importance="High" Text="Generación de código completa. Errores: 0. Advertencias: 0." />
+</Log>

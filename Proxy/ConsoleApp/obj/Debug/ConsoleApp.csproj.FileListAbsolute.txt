@@ -1,0 +1,19 @@
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\bin\Debug\Proxy.dll
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\bin\Debug\Proxy.pdb
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\SleiderAndres\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\SleiderAndres\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\SleiderAndres\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\Proxy.dll
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\bin\Debug\Proxy.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\bin\Debug\Proxy.dll
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.dll
+C:\Users\SleiderAndres\Documents\Visual Studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\Proxy\bin\Debug\Proxy.dll
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\Proxy\obj\Debug\Proxy.dll
+C:\Users\Kelly\Google Drive\Proyectos U\Visual Studio\Proxy\Proxy\obj\Debug\Proxy.pdb
