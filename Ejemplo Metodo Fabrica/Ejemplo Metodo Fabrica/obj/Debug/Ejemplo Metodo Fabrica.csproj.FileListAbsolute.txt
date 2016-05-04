@@ -1,0 +1,6 @@
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\bin\Debug\Ejemplo Metodo Fabrica.exe.config
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\bin\Debug\Ejemplo Metodo Fabrica.exe
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\bin\Debug\Ejemplo Metodo Fabrica.pdb
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\obj\Debug\Ejemplo Metodo Fabrica.csprojResolveAssemblyReference.cache
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\obj\Debug\Ejemplo Metodo Fabrica.exe
+c:\users\sleiderandres\documents\visual studio 2015\Projects\Ejemplo Metodo Fabrica\Ejemplo Metodo Fabrica\obj\Debug\Ejemplo Metodo Fabrica.pdb
